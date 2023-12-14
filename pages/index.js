@@ -37,7 +37,7 @@ const Home = () => (
         bg={useColorModeValue('whiteAlpha.500', 'whiteAlpha.200')}
         css={{ backdropFilter: 'blur(10px)' }}
       >
-        Hello There
+        Hello Everyone !
       </Box>
 
       <Box display={{ md: 'flex' }}>
@@ -97,17 +97,24 @@ const Home = () => (
 
       <Section delay={0.2}>
         <Heading as="h3" variant="section-title">
-          Bio
-        </Heading>
-        <BioSection>
+          Academic
+        </Heading> 
+         <BioSection>
+          <BioYear>2009 - 2019</BioYear>
+          Primary and Higher Secondary Education
+          in Lincoln Memorial English School - Distinction : 90.6%
+        </BioSection>
+         <BioSection>
           <BioYear>2019 - 2021</BioYear>
-          Studied In Vishwachethana PU College - Physics, Chemistry, Mathematics, Biology
+          Pre Univesity (11th and 12th ) - major in Physics, Chemistry, Mathematics, Biology 
+          Studied In Vishwachethana PU College - Grade : 83.83%
         </BioSection>
         <BioSection>
           <BioYear>2021 - 2024</BioYear>
-          Currently Pursuing BCA (Bachelors in Computer Application) major in Cybersecurity
-          in JAIN(Deemed-to-be) University
+           Pursuing BCA- Bachelor of Computer Application - Major in Cybersecurity program integrated with EC-COUNCIL
+           JAIN ( Deemed-to-be) University - Current CGPA - 8.995/10 
         </BioSection>
+       </Section>
         <BioSection>
           <BioYear>May 2023 - Jul 2023</BioYear>
           <BioSection>
