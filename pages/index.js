@@ -43,9 +43,9 @@ const Home = () => (
       <Box display={{ md: 'flex' }}>
         <Box flexGrow={1}>
           <Heading as="h2" variant="page-title">
-            Abhishek Reddy
+           R Abhishek Reddy
           </Heading>
-          <p>Red team operator | cybersec student | bug hunter | penetration tester | cybersecurity researcher | Python Programmer | TryHackMe Top 1%</p>
+          <p>Red team operator | cybersec student | penetration tester | researcher | Forensic | SOC Analyst</p>
         </Box>
         <Box
           flexShrink={0}
