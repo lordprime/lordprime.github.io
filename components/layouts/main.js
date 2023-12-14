@@ -17,8 +17,8 @@ const Main = ({ children, router }) => {
         <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
         <meta name="twitter:title" content="Abhishek Reddy" />
         <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:site" content="@morpheuslord2" />
-        <meta name="twitter:creator" content="@morpheuslord2" />
+        <meta name="twitter:site" content="@lordprime" />
+        <meta name="twitter:creator" content="@lordprime" />
         <meta name="twitter:image" content="https://www.craftz.dog/card.png" />
         <meta property="og:site_name" content="Abhishek Reddy" />
         <meta name="og:title" content="Abhishek Reddy" />
