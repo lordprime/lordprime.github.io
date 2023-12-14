@@ -79,9 +79,9 @@ const Home = () => (
           Work
         </Heading>
         <Paragraph>
-          Welcome to my LinkedIn profile! I'm R Abhishek Reddy, a dedicated cybersecurity student & researcher specialising in red team operations and security testing. My career is driven by an insatiable curiosity and a relentless pursuit of excellence in the ever-evolving cybersecurity landscape.
-          My professional journey is underpinned by a fervent commitment to staying at the forefront of industry advancements. I'm continually honing my skills and expanding my knowledge base to remain a formidable force in the field. Proficient in programming languages like C++, C, and Python, I bring a solid foundation to my work. I excel in the art of website hacking and application testing, leveraging this expertise to safeguard digital landscapes.
-          I firmly believe that learning is an ongoing endeavour, and I'm passionate about acquiring new skills to maintain a competitive edge in cybersecurity. Beyond my technical prowess, I actively contribute to the community as an avid blogger. Through my thought-provoking articles and blog posts, I strive to raise awareness and provide valuable insights into the realm of cybersecurity.        </Paragraph>
+        Welcome to my world of cybersecurity expertise! I'm Abhishek Reddy, an IBM certified cybersecurity analyst with a passion for system network and web hacking. My academic and professional journey has been deeply rooted in cybersecurity, showcased through various internships in penetration testing, digital forensics, information security administration, and networking. At Jain University, I pursued a Bachelor of Computer Application, honing my skills further. My commitment to continuous learning and embracing challenges has kept me at the forefront of the latest security trends and technologies. With publications in AI, network scanning, and integrating ChatGPT into WhatsApp, I bring a blend of theoretical knowledge and practical application. Join me in exploring the dynamic and ever-evolving field of cybersecurity.
+                
+                </Paragraph>
         <Box align="center" my={4}>
           <Button
             as={NextLink}
