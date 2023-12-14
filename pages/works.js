@@ -15,7 +15,7 @@ import thumbFreeDBTagger from '../public/images/works/freedbtagger_eyecatch.png'
 import thumbAmembo from '../public/images/works/amembo_eyecatch.png'
 
 const Works = () => (
-  <Layout title="Works">
+  <Layout title=" Explore">
     <Container>
       <Heading as="h3" fontSize={30} mb={5}>
         Projects
