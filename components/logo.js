@@ -24,7 +24,7 @@ const Logo = () => {
           fontWeight="bold"
           ml={3}
         >
-          R ABHISHEK REDDDY 
+          R ABHISHEK REDDY 
         </Text>
       </LogoBox>
 
