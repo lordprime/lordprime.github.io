@@ -124,74 +124,45 @@ const Home = () => (
           I am intrested in
         </Heading>
         <Paragraph>
-          Blogging, Researching , programming automated tools for hacking, and also learning new skills
+        Research & Development, Penetration Testing, Cloud Security, Blue teaming, and being updated with new technologies and tools. 
         </Paragraph>
       </Section>
 
       <Section delay={0.3}>
         <Heading as="h3" variant="section-title">
-          Other Links
+          Social Media Links
         </Heading>
         <List>
           <ListItem>
-            <Link href="https://github.com/morpheuslord" target="_blank">
+            <Link href="https://github.com/lordprime" target="_blank">
               <Button
                 variant="ghost"
                 colorScheme="teal"
                 leftIcon={<IoLogoGithub />}
               >
-                @morpheuslord
+               @RABHISHEKREDDY4 
               </Button>
             </Link>
           </ListItem>
           <ListItem>
-            <Link href="https://twitter.com/" target="_blank">
+            <Link href="https://x.com/RABHISHEKREDDY4?t=3vzDSC7yK7Kg4_RFzuZaNQ&s=09" target="_blank">
               <Button
                 variant="ghost"
                 colorScheme="teal"
                 leftIcon={<IoLogoTwitter />}
               >
-                @morpheuslord2
+                @RABHISHEKREDDY
               </Button>
             </Link>
           </ListItem>
           <ListItem>
-            <Link href="https://hackernoon.com/u/morpheuslord" target="_blank">
-              <Button
-                variant="ghost"
-                colorScheme="teal"
-                leftIcon={<IoLogoInstagram />}
-              >
-                @hackernoon
-              </Button>
-            </Link>
-          </ListItem>
-          <ListItem>
-            <Link href="https://www.linkedin.com/in/Abhishek Reddy-g-98b013233/" target="_blank">
+            <Link href="https://www.linkedin.com/in/r-abhishek-reddy-56b950215/" target="_blank">
               <Button
                 variant="ghost"
                 colorScheme="teal"
                 leftIcon={<IoLogoLinkedin />}
               >
                 @LinkedIn
-              </Button>
-            </Link>
-          </ListItem>
-        </List>
-      </Section>
-      <Section delay={0.3}>
-        <Heading as="h3" variant="section-title">
-          1:1 Call
-        </Heading>
-        <List>
-          <ListItem>
-            <Link href="https://superpeer.com/Abhishek Reddy/-/have-a-chat?s=d" target="_blank">
-              <Button
-                variant="ghost"
-                colorScheme="teal"
-                leftIcon={<IoLogoGithub />}
-              >
-                Have a 1:1 conversation with me using SuperPeer.
               </Button>
             </Link>
           </ListItem>
