@@ -93,7 +93,7 @@ const Home = () => (
             rightIcon={<ChevronRightIcon />}
             colorScheme="teal"
           >
-            My Works
+            Explore 
           </Button>
         </Box>
       </Section>
@@ -104,17 +104,17 @@ const Home = () => (
   </Heading> 
   <BioSection>
     <BioYear>2021 - 2024</BioYear>
-    " Pursuing BCA- Bachelor of Computer Application - Major in Cybersecurity program integrated with EC-COUNCIL \n"
+    Pursuing BCA- Bachelor of Computer Application - Major in Cybersecurity program integrated with EC-COUNCIL 
     JAIN ( Deemed-to-be) University - Current CGPA - 8.995/10 
   </BioSection>
   <BioSection>
     <BioYear>2019 - 2021</BioYear>
-    "Pre Univesity (11th and 12th ) - major in Physics, Chemistry, Mathematics, Biology \n"
+    Pre Univesity (11th and 12th ) - major in Physics, Chemistry, Mathematics, Biology 
     Studied In Vishwachethana PU College - Grade : 83.83%
   </BioSection>
   <BioSection>
     <BioYear>2009 - 2019</BioYear>
-    "Primary and Higher Secondary Education \n" 
+    Primary and Higher Secondary Education 
     Studied in Lincoln Memorial English School - Distinction : 90.6%
   </BioSection>
 </Section>
