@@ -79,9 +79,12 @@ const Home = () => (
           Work
         </Heading>
         <Paragraph>
-        Welcome to my world of cybersecurity expertise! I'm Abhishek Reddy, an IBM certified cybersecurity analyst with a passion for system network and web hacking. My academic and professional journey has been deeply rooted in cybersecurity, showcased through various internships in penetration testing, digital forensics, information security administration, and networking. At Jain University, I pursued a Bachelor of Computer Application, honing my skills further. My commitment to continuous learning and embracing challenges has kept me at the forefront of the latest security trends and technologies. With publications in AI, network scanning, and integrating ChatGPT into WhatsApp, I bring a blend of theoretical knowledge and practical application. Join me in exploring the dynamic and ever-evolving field of cybersecurity.
-                
-                </Paragraph>
+        Welcome to my world of cybersecurity expertise! 
+        I'm Abhishek Reddy, an IBM certified cybersecurity analyst with a passion for system network and web hacking. 
+          My academic and professional journey has been deeply rooted in cybersecurity, showcased through various internships in penetration testing, digital forensics, information security administration, and networking. 
+          At Jain University, I pursued a Bachelor of Computer Application, honing my skills further. My commitment to continuous learning and embracing challenges has kept me at the forefront of the latest security trends and technologies. 
+          With publications in AI, network scanning, and integrating ChatGPT into WhatsApp, I bring a blend of theoretical knowledge and practical application. Join me in exploring the dynamic and ever-evolving field of cybersecurity.
+        </Paragraph>
         <Box align="center" my={4}>
           <Button
             as={NextLink}
@@ -113,25 +116,6 @@ const Home = () => (
           <BioYear>2009 - 2019</BioYear>
           Primary and Higher Secondary Education
           in Lincoln Memorial English School - Distinction : 90.6%
-        </BioSection>
-         
-        
-       </Section>
-        <BioSection>
-          <BioYear>May 2023 - Jul 2023</BioYear>
-          <BioSection>
-            <Box><b>Position:</b> Cyber Security Engineer <b>(INTER)</b></Box>
-            <Box><b>Role:</b> Automate Blackbox recon, research product improvements.</Box>
-            <Box><b>Company:</b> AverCyber Technologies</Box>
-          </BioSection>
-        </BioSection>
-        <BioSection>
-          <BioYear>Aug 2023 - Present</BioYear>
-          <BioSection>
-            <Box><b>Position:</b> Offensive security engineer <b>(INTER)</b></Box>
-            <Box><b>Role:</b> Work with AWS misconfigurations, SBOM tools, and misconfig testing automation.</Box>
-            <Box><b>Company:</b> AverCyber Technologies</Box>
-          </BioSection>
         </BioSection>
       </Section>
 
