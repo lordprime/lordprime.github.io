@@ -104,20 +104,17 @@ const Home = () => (
         </Heading> 
           <BioSection>
           <BioYear>2021 - 2024</BioYear>
-           Pursuing BCA- Bachelor of Computer Application - Major in Cybersecurity program integrated with EC-COUNCIL
-            <br>
+           Pursuing BCA- Bachelor of Computer Application - Major in Cybersecurity program integrated with EC-COUNCIL \n
            JAIN ( Deemed-to-be) University - Current CGPA - 8.995/10 
            </BioSection>
           <BioSection>
           <BioYear>2019 - 2021</BioYear>
-          Pre Univesity (11th and 12th ) - major in Physics, Chemistry, Mathematics, Biology  
-          <br>
+          Pre Univesity (11th and 12th ) - major in Physics, Chemistry, Mathematics, Biology \n
           Studied In Vishwachethana PU College - Grade : 83.83%
           </BioSection>
          <BioSection>
           <BioYear>2009 - 2019</BioYear>
-          Primary and Higher Secondary Education 
-           <br>
+          Primary and Higher Secondary Education \n
           Studied in Lincoln Memorial English School - Distinction : 90.6%
         </BioSection>
       </Section>
