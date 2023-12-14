@@ -79,7 +79,7 @@ const Home = () => (
           Work
         </Heading>
         <Paragraph>
-          Welcome to my LinkedIn profile! I'm Abhishek Reddy, a dedicated cybersecurity researcher specialising in red team operations and security testing. My career is driven by an insatiable curiosity and a relentless pursuit of excellence in the ever-evolving cybersecurity landscape.
+          Welcome to my LinkedIn profile! I'm R Abhishek Reddy, a dedicated cybersecurity student & researcher specialising in red team operations and security testing. My career is driven by an insatiable curiosity and a relentless pursuit of excellence in the ever-evolving cybersecurity landscape.
           My professional journey is underpinned by a fervent commitment to staying at the forefront of industry advancements. I'm continually honing my skills and expanding my knowledge base to remain a formidable force in the field. Proficient in programming languages like C++, C, and Python, I bring a solid foundation to my work. I excel in the art of website hacking and application testing, leveraging this expertise to safeguard digital landscapes.
           I firmly believe that learning is an ongoing endeavour, and I'm passionate about acquiring new skills to maintain a competitive edge in cybersecurity. Beyond my technical prowess, I actively contribute to the community as an avid blogger. Through my thought-provoking articles and blog posts, I strive to raise awareness and provide valuable insights into the realm of cybersecurity.        </Paragraph>
         <Box align="center" my={4}>
@@ -101,12 +101,12 @@ const Home = () => (
         </Heading>
         <BioSection>
           <BioYear>2019 - 2021</BioYear>
-          Studied In Presidency Junior College - SEBA course
+          Studied In Vishwachethana PU College - Physics, Chemistry, Mathematics, Biology
         </BioSection>
         <BioSection>
           <BioYear>2021 - 2024</BioYear>
-          Currently Doing My BCA (Bachelors in Computer Application)
-          in Jain (Deemed-to-be University)
+          Currently Pursuing BCA (Bachelors in Computer Application) major in Cybersecurity
+          in JAIN(Deemed-to-be) University
         </BioSection>
         <BioSection>
           <BioYear>May 2023 - Jul 2023</BioYear>
