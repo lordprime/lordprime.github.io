@@ -67,8 +67,7 @@ const Navbar = props => {
           <Heading as="h1" size="lg" letterSpacing={'tighter'}>
             <Logo />
           </Heading>
-        </Flex>
-
+        </Flex> 
         <Stack
           direction={{ base: 'column', md: 'row' }}
           display={{ base: 'none', md: 'flex' }}
@@ -76,55 +75,6 @@ const Navbar = props => {
           alignItems="center"
           flexGrow={1}
           mt={{ base: 4, md: 0 }}
-        >
-          <LinkItem href="/works" path={path}>
-            Projects and Research
-          </LinkItem>
-          <LinkItem href="https://hackernoon.com/u/morpheuslord" path={path} target="_blank">
-            Articles
-          </LinkItem>
-          <LinkItem
-            target="_blank"
-            href="https://github.com/morpheuslord"
-            path={path}
-            display="inline-flex"
-            alignItems="center"
-            style={{ gap: 4 }}
-            pl={2}
-          >
-            <IoLogoGithub />
-            Github Page
-          </LinkItem>
-        </Stack>
-
-        <Box flex={1} align="right">
-          <ThemeToggleButton />
-
-          <Box ml={2} display={{ base: 'inline-block', md: 'none' }}>
-            <Menu isLazy id="navbar-menu">
-              <MenuButton
-                as={IconButton}
-                icon={<HamburgerIcon />}
-                variant="outline"
-                aria-label="Options"
-              />
-              <MenuList>
-                <MenuItem as={MenuLink} href="/">
-                  About
-                </MenuItem>
-                <MenuItem as={MenuLink} href="/works">
-                  Works
-                </MenuItem>
-                <MenuItem as={MenuLink} href="https://hackernoon.com/u/morpheuslord">
-                  Articles
-                </MenuItem>
-                <MenuItem
-                  as={Link}
-                  href="https://github.com/morpheuslord"
-                >
-                  View Source
-                </MenuItem>
-              </MenuList>
             </Menu>
           </Box>
         </Box>
